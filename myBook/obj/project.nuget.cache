@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tc3g+x2JJbj4q5UZD2w/VvikdpHAHt7+FnElDtF78berntsehTbSjyWF0pJ7lI9mVjBxcu5J8BaIB7IMoWZDww==",
+  "success": true,
+  "projectFilePath": "C:\\Shreya Learning\\WPF_Learning\\myBook\\myBook\\myBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shrey\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\shrey\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shrey\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\shrey\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\shrey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\shrey\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
